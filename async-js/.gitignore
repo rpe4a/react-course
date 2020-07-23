@@ -1,0 +1,5 @@
+.idea/
+
+tasks/async/node_modules/
+
+tasks/react/node_modules/
